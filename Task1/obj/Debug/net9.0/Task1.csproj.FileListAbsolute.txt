@@ -1,0 +1,14 @@
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/bin/Debug/net9.0/Task1
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/bin/Debug/net9.0/Task1.deps.json
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/bin/Debug/net9.0/Task1.dll
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/bin/Debug/net9.0/Task1.pdb
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.dll
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/refint/Task1.dll
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.pdb
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/Users/rajak/Documents/BIT Year 3/CS6004 Application Development/Week-3/Workshop3/Task1/obj/Debug/net9.0/ref/Task1.dll
