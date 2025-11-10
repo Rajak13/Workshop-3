@@ -21,6 +21,10 @@ public class Program
                 {
                     Console.WriteLine("Adult.");
                 }
+                else
+                {
+                Console.WriteLine("Your age cannot be calculated");
+                }
             }
             else
             {
